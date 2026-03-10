@@ -75,10 +75,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lrocchi&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="lrocchi" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lrocchi&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="lrocchi" />
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=lrocchi&theme=tokyonight&hide_border=true" alt="lrocchi" />
 </div>
 
