@@ -12,7 +12,7 @@
 
 - Passionate about **DevOps**, **backend development**, and **cloud infrastructure**
 - Based in **Italy** 🇮🇹
-- Reach me at **lrocchi73@gmail.com**
+- Reach me at **lrocchi73@proton.me**
 
 ---
 
